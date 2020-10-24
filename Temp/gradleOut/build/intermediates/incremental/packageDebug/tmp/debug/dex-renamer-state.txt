@@ -1,4 +1,4 @@
-#Sat Oct 24 22:48:05 CEST 2020
+#Sat Oct 24 23:03:23 CEST 2020
 base.0=/home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/build/intermediates/transforms/dexMerger/debug/0
 path.1=classes.dex
 renamed.1=classes2.dex
