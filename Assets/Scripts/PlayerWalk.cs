@@ -14,6 +14,7 @@ public class PlayerWalk : MonoBehaviour {
     public GameObject winText;
     public GameObject lostCoinsText;
     public GameObject lostTimeText;
+    public AudioSource backgroundMusic;
 
     public bool gameStarted = false;
 
@@ -40,18 +41,23 @@ public class PlayerWalk : MonoBehaviour {
             transform.position = transform.position + Camera.main.transform.forward * playerSpeed * Time.deltaTime;
         }
 
+        // Update the timeLeft with the public TotalTime once it's set
+        if (gameStarted && firstTime) OnStartGame();
+
         UpdateTimeText();
         SetCountText();
     }
 
+    void OnStartGame() {
+        firstTime = false;
+        
+        timeLeft = totalTime;
+        backgroundMusic = GetComponent<AudioSource>();
+        backgroundMusic.Play(0);
+    }
+
     void UpdateTimeText() {
         if (gameStarted) {
-            // Update the timeLeft with the public TotalTime once it's set
-            if (firstTime) {
-                timeLeft = totalTime;
-                firstTime = false;
-            }
-
             timeLeft -= Time.deltaTime;
             
             if (timeLeft > 0) {

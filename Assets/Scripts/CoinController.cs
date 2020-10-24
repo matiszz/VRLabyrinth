@@ -5,6 +5,7 @@ using UnityEngine;
 public class CoinController : MonoBehaviour {
     public float pointTime;
 
+    public AudioSource coinSound;
     private static GameObject player;
 
     private bool entered;
@@ -34,8 +35,10 @@ public class CoinController : MonoBehaviour {
     }
 
     private void OnCollectCoin() {
+        coinSound = GetComponent<AudioSource>();
+        coinSound.Play(0);
+
         PlayerWalk playerScript = player.GetComponent<PlayerWalk>();
-        
         playerScript.countCoins++;
 
         gameObject.SetActive(false);
