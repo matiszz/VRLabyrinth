@@ -4696,7 +4696,7 @@ GameObject:
   - component: {fileID: 513439698}
   - component: {fileID: 513439697}
   m_Layer: 5
-  m_Name: "BtnMusic\x13"
+  m_Name: BtnMusic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6330,7 +6330,7 @@ GameObject:
   - component: {fileID: 694958798}
   - component: {fileID: 694958797}
   m_Layer: 5
-  m_Name: "BtnBack\x13"
+  m_Name: BtnBack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13571,7 +13571,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1413936524}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 40, y: 0, z: -25}
+  m_LocalPosition: {x: 40, y: 0, z: -25.09}
   m_LocalScale: {x: 50.5, y: 10, z: 0.5}
   m_Children: []
   m_Father: {fileID: 906206374}
@@ -14538,6 +14538,7 @@ MonoBehaviour:
   playerSpeed: 10
   totalCoins: 12
   totalTime: 120
+  musicEnabled: 1
   coinText: {fileID: 1663176729}
   timeText: {fileID: 45603672}
   winText: {fileID: 1217165145}

@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Timers;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class InteractiveButton : MonoBehaviour {
 
@@ -43,7 +42,6 @@ public class InteractiveButton : MonoBehaviour {
 
     private void OnSelectOption() {
         PlayerWalk playerScript = player.GetComponent<PlayerWalk>();
-        Debug.Log("HOLA " + transform.name);
         
         if (transform.name == "BtnEasy") {
             playerScript.totalTime = EASY_TIME;
@@ -60,18 +58,16 @@ public class InteractiveButton : MonoBehaviour {
             DisplayObject(settings, true);
 
         } else if (transform.name == "BtnBack") {
-            Debug.Log("HOLaaaaaA");
             DisplayObject(main, true);
             DisplayObject(settings, false);
 
         } else if (transform.name == "BtnMusic") {
             if (playerScript.musicEnabled)
-                soundBtnText.text = "Music OFF";
+                gameObject.transform.GetChild(0).GetComponent<UnityEngine.UI.Text>().text = "Music OFF";
             else
-                soundBtnText.text = "Music ON";
-                
-            playerScript.musicEnabled = !playerScript.musicEnabled;
-        //    gameObject.GetComponentInChildren(Text).text = "testing";
+                gameObject.transform.GetChild(0).GetComponent<UnityEngine.UI.Text>().text = "Music ON";
+
+            playerScript.musicEnabled = !playerScript.musicEnabled;   
         }
 
     }
