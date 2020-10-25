@@ -8,6 +8,7 @@ public class PlayerWalk : MonoBehaviour {
     public int playerSpeed;
     public int totalCoins;
     public int totalTime;
+    public bool musicEnabled;
 
     public TextMeshProUGUI coinText;
     public TextMeshProUGUI timeText;
@@ -52,10 +53,12 @@ public class PlayerWalk : MonoBehaviour {
 
     void OnStartGame() {
         firstTime = false;
-        
         timeLeft = totalTime;
-        backgroundMusic = GetComponent<AudioSource>();
-        backgroundMusic.Play(0);
+        
+        if (musicEnabled) {
+            backgroundMusic = GetComponent<AudioSource>();
+            backgroundMusic.Play(0);
+        } 
     }
 
     void UpdateTimeText() {
@@ -85,11 +88,12 @@ public class PlayerWalk : MonoBehaviour {
         if (timeLeft > 0) {
             if (countCoins == totalCoins) {
                 winText.SetActive(true);
-                playerSpeed = 0;
             } else {
                 lostCoinsText.SetActive(true);
-                playerSpeed = 0;
             }
+            
+            playerSpeed = 0;
+            gameStarted = false;
         }
     }
 }
