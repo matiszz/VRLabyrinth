@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 18c7a0251a2ec7ab3b54071089e413e1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ____BS_-_PE_com_D1_SS_de_90_
+    100002: ____BS_-_PE_com_D1_SS_de_90_ 1
+    100004: ____BS_-_PE_com_D1_SS_de_90_ 2
+    100006: ____BS_-_PE_com_D1_SS_de_90_ 3
+    100008: ____BS_-_PE_com_D1_SS_de_90_ 4
+    100010: ____BS_-_PE_com_D1_SS_de_90_ 5
+    100012: ____BS_-_PE_com_D2_SS_de_90_
+    100014: ____BS_-_PI_Completa
+    100016: ____BS_-_PI_Completa 1
+    100018: ____BS_-_PI_Completa 2
+    100020: ____BS_-_PI_Completa 3
+    100022: ____BS_-_PI_Completa 4
+    100024: ____BS_-_PI_Completa 5
+    100026: ____BS_-_PI_Completa 6
+    100028: ____Curva_Externa_Curta_de_90_
+    100030: ____Curva_Externa_Curta_de_90_ 1
+    100032: ____Curva_Interna_Curta_de_90_
+    100034: ____Curva_Interna_Curta_de_90_ 1
+    100036: ____Encontro_do_Prolongamento_Externo_de_3_Bolsas
+    100038: ____Encontro_do_Prolongamento_Interno_de_3_Bolsas
+    100040: ____Encontro_do_Prolongamento_Interno_de_4_Bolsas
+    100042: "____Joelho_90__Sold\xE1vel"
+    100044: "____Joelho_90__Sold\xE1vel 1"
+    100046: "____T\xEA_Sold\xE1vel"
+    100048: group_0
+    100050: group_1
+    100052: group_10
+    100054: group_10 1
+    100056: group_10 2
+    100058: group_10 3
+    100060: group_10 4
+    100062: group_10 5
+    100064: group_11
+    100066: group_11 1
+    100068: group_11 2
+    100070: group_11 3
+    100072: group_11 4
+    100074: group_11 5
+    100076: group_12
+    100078: group_13
+    100080: group_14
+    100082: group_15
+    100084: group_15 1
+    100086: group_16
+    100088: group_17
+    100090: group_18
+    100092: group_19
+    100094: group_2
+    100096: group_2 1
+    100098: group_2 2
+    100100: group_2 3
+    100102: group_2 4
+    100104: group_2 5
+    100106: group_2 6
+    100108: group_2 7
+    100110: group_20
+    100112: group_21
+    100114: group_22
+    100116: group_23
+    100118: group_24
+    100120: group_25
+    100122: group_26
+    100124: group_27
+    100126: group_28
+    100128: group_29
+    100130: group_3
+    100132: group_3 1
+    100134: group_3 2
+    100136: group_3 3
+    100138: group_3 4
+    100140: group_3 5
+    100142: group_3 6
+    100144: group_3 7
+    100146: group_30
+    100148: group_31
+    100150: group_32
+    100152: group_33
+    100154: group_34
+    100156: group_35
+    100158: group_36
+    100160: group_37
+    100162: group_38
+    100164: group_39
+    100166: group_4
+    100168: group_40
+    100170: group_41
+    100172: group_42
+    100174: group_43
+    100176: group_44
+    100178: group_45
+    100180: group_46
+    100182: group_47
+    100184: group_48
+    100186: group_48 1
+    100188: group_49
+    100190: group_49 1
+    100192: group_5
+    100194: group_50
+    100196: group_51
+    100198: group_52
+    100200: group_53
+    100202: group_54
+    100204: group_55
+    100206: group_56
+    100208: group_57
+    100210: group_58
+    100212: group_59
+    100214: Group_6
+    100216: group_6
+    100218: Group_6 1
+    100220: Group_6 2
+    100222: group_60
+    100224: group_61
+    100226: group_62
+    100228: group_7
+    100230: group_8
+    100232: group_9
+    100234: ID1004
+    100236: ID1012
+    100238: ID1020
+    100240: ID1028
+    100242: ID103
+    100244: ID1036
+    100246: ID1044
+    100248: ID1052
+    100250: ID1071
+    100252: ID1081
+    100254: ID1110
+    100256: ID1118
+    100258: ID1155
+    100260: ID1172
+    100262: ID1180
+    100264: ID1184
+    100266: ID1188
+    100268: ID1201
+    100270: ID1209
+    100272: ID1213
+    100274: ID1217
+    100276: ID1275
+    100278: ID1275 1
+    100280: ID1275 2
+    100282: ID1294
+    100284: ID130
+    100286: ID1311
+    100288: ID1319
+    100290: ID1354
+    100292: ID1362
+    100294: ID1379
+    100296: ID138
+    100298: ID1387
+    100300: ID1391
+    100302: ID1395
+    100304: ID1420
+    100306: ID1437
+    100308: ID1445
+    100310: ID1449
+    100312: ID1453
+    100314: ID1466
+    100316: ID1474
+    100318: ID1478
+    100320: ID1482
+    100322: ID1496
+    100324: ID1504
+    100326: ID1577
+    100328: ID1577 1
+    100330: ID1577 2
+    100332: ID1577 3
+    100334: ID1623
+    100336: ID1631
+    100338: ID1639
+    100340: ID1647
+    100342: ID165
+    100344: ID1655
+    100346: ID173
+    100348: ID19
+    100350: ID203
+    100352: ID211
+    100354: ID215
+    100356: ID219
+    100358: ID242
+    100360: ID259
+    100362: ID267
+    100364: ID27
+    100366: ID271
+    100368: ID275
+    100370: ID288
+    100372: ID296
+    100374: ID300
+    100376: ID304
+    100378: ID326
+    100380: ID343
+    100382: ID351
+    100384: ID355
+    100386: ID359
+    100388: ID401
+    100390: ID409
+    100392: ID413
+    100394: ID417
+    100396: ID433
+    100398: ID433 1
+    100400: ID433 2
+    100402: ID441
+    100404: ID441 1
+    100406: ID441 2
+    100408: ID459
+    100410: ID459 1
+    100412: ID459 2
+    100414: ID467
+    100416: ID467 1
+    100418: ID467 2
+    100420: ID485
+    100422: ID493
+    100424: ID510
+    100426: ID518
+    100428: ID522
+    100430: ID526
+    100432: ID549
+    100434: ID567
+    100436: ID575
+    100438: ID60
+    100440: ID601
+    100442: ID609
+    100444: ID613
+    100446: ID617
+    100448: ID630
+    100450: ID638
+    100452: ID642
+    100454: ID646
+    100456: ID659
+    100458: ID667
+    100460: ID671
+    100462: ID675
+    100464: ID68
+    100466: ID698
+    100468: ID725
+    100470: ID742
+    100472: ID750
+    100474: ID754
+    100476: ID758
+    100478: ID781
+    100480: ID798
+    100482: ID806
+    100484: ID810
+    100486: ID814
+    100488: ID836
+    100490: ID863
+    100492: ID880
+    100494: ID888
+    100496: ID892
+    100498: ID896
+    100500: ID909
+    100502: ID917
+    100504: ID921
+    100506: ID925
+    100508: ID938
+    100510: ID946
+    100512: ID95
+    100514: ID950
+    100516: ID954
+    100518: ID970
+    100520: ID980
+    100522: ID988
+    100524: ID996
+    100526: instance_0
+    100528: instance_1
+    100530: instance_1 1
+    100532: instance_1 2
+    100534: instance_10
+    100536: instance_10 1
+    100538: instance_11
+    100540: instance_11 1
+    100542: instance_12
+    100544: instance_12 1
+    100546: instance_13
+    100548: instance_14
+    100550: instance_15
+    100552: instance_16
+    100554: instance_17
+    100556: instance_18
+    100558: instance_19
+    100560: instance_2
+    100562: instance_2 1
+    100564: instance_2 2
+    100566: instance_20
+    100568: instance_21
+    100570: instance_22
+    100572: instance_23
+    100574: instance_24
+    100576: instance_3
+    100578: instance_4
+    100580: instance_5
+    100582: instance_6
+    100584: instance_6 1
+    100586: instance_7
+    100588: instance_7 1
+    100590: instance_8
+    100592: instance_8 1
+    100594: instance_9
+    100596: instance_9 1
+    100598: "Joelho_90__Sold\xE1vel_25mm"
+    100600: "Joelho_90__Sold\xE1vel_25mm 1"
+    100602: leg
+    100604: leg 1
+    100606: leg 2
+    100608: leg 3
+    100610: leg 4
+    100612: leg 5
+    100614: //RootNode
+    100616: skp_camera_Last_Saved_SketchUp_View
+    100618: skp_camera_Scene_2
+    100620: "T\xEA_Sold\xE1vel_25mm"
+    400000: ____BS_-_PE_com_D1_SS_de_90_
+    400002: ____BS_-_PE_com_D1_SS_de_90_ 1
+    400004: ____BS_-_PE_com_D1_SS_de_90_ 2
+    400006: ____BS_-_PE_com_D1_SS_de_90_ 3
+    400008: ____BS_-_PE_com_D1_SS_de_90_ 4
+    400010: ____BS_-_PE_com_D1_SS_de_90_ 5
+    400012: ____BS_-_PE_com_D2_SS_de_90_
+    400014: ____BS_-_PI_Completa
+    400016: ____BS_-_PI_Completa 1
+    400018: ____BS_-_PI_Completa 2
+    400020: ____BS_-_PI_Completa 3
+    400022: ____BS_-_PI_Completa 4
+    400024: ____BS_-_PI_Completa 5
+    400026: ____BS_-_PI_Completa 6
+    400028: ____Curva_Externa_Curta_de_90_
+    400030: ____Curva_Externa_Curta_de_90_ 1
+    400032: ____Curva_Interna_Curta_de_90_
+    400034: ____Curva_Interna_Curta_de_90_ 1
+    400036: ____Encontro_do_Prolongamento_Externo_de_3_Bolsas
+    400038: ____Encontro_do_Prolongamento_Interno_de_3_Bolsas
+    400040: ____Encontro_do_Prolongamento_Interno_de_4_Bolsas
+    400042: "____Joelho_90__Sold\xE1vel"
+    400044: "____Joelho_90__Sold\xE1vel 1"
+    400046: "____T\xEA_Sold\xE1vel"
+    400048: group_0
+    400050: group_1
+    400052: group_10
+    400054: group_10 1
+    400056: group_10 2
+    400058: group_10 3
+    400060: group_10 4
+    400062: group_10 5
+    400064: group_11
+    400066: group_11 1
+    400068: group_11 2
+    400070: group_11 3
+    400072: group_11 4
+    400074: group_11 5
+    400076: group_12
+    400078: group_13
+    400080: group_14
+    400082: group_15
+    400084: group_15 1
+    400086: group_16
+    400088: group_17
+    400090: group_18
+    400092: group_19
+    400094: group_2
+    400096: group_2 1
+    400098: group_2 2
+    400100: group_2 3
+    400102: group_2 4
+    400104: group_2 5
+    400106: group_2 6
+    400108: group_2 7
+    400110: group_20
+    400112: group_21
+    400114: group_22
+    400116: group_23
+    400118: group_24
+    400120: group_25
+    400122: group_26
+    400124: group_27
+    400126: group_28
+    400128: group_29
+    400130: group_3
+    400132: group_3 1
+    400134: group_3 2
+    400136: group_3 3
+    400138: group_3 4
+    400140: group_3 5
+    400142: group_3 6
+    400144: group_3 7
+    400146: group_30
+    400148: group_31
+    400150: group_32
+    400152: group_33
+    400154: group_34
+    400156: group_35
+    400158: group_36
+    400160: group_37
+    400162: group_38
+    400164: group_39
+    400166: group_4
+    400168: group_40
+    400170: group_41
+    400172: group_42
+    400174: group_43
+    400176: group_44
+    400178: group_45
+    400180: group_46
+    400182: group_47
+    400184: group_48
+    400186: group_48 1
+    400188: group_49
+    400190: group_49 1
+    400192: group_5
+    400194: group_50
+    400196: group_51
+    400198: group_52
+    400200: group_53
+    400202: group_54
+    400204: group_55
+    400206: group_56
+    400208: group_57
+    400210: group_58
+    400212: group_59
+    400214: Group_6
+    400216: group_6
+    400218: Group_6 1
+    400220: Group_6 2
+    400222: group_60
+    400224: group_61
+    400226: group_62
+    400228: group_7
+    400230: group_8
+    400232: group_9
+    400234: ID1004
+    400236: ID1012
+    400238: ID1020
+    400240: ID1028
+    400242: ID103
+    400244: ID1036
+    400246: ID1044
+    400248: ID1052
+    400250: ID1071
+    400252: ID1081
+    400254: ID1110
+    400256: ID1118
+    400258: ID1155
+    400260: ID1172
+    400262: ID1180
+    400264: ID1184
+    400266: ID1188
+    400268: ID1201
+    400270: ID1209
+    400272: ID1213
+    400274: ID1217
+    400276: ID1275
+    400278: ID1275 1
+    400280: ID1275 2
+    400282: ID1294
+    400284: ID130
+    400286: ID1311
+    400288: ID1319
+    400290: ID1354
+    400292: ID1362
+    400294: ID1379
+    400296: ID138
+    400298: ID1387
+    400300: ID1391
+    400302: ID1395
+    400304: ID1420
+    400306: ID1437
+    400308: ID1445
+    400310: ID1449
+    400312: ID1453
+    400314: ID1466
+    400316: ID1474
+    400318: ID1478
+    400320: ID1482
+    400322: ID1496
+    400324: ID1504
+    400326: ID1577
+    400328: ID1577 1
+    400330: ID1577 2
+    400332: ID1577 3
+    400334: ID1623
+    400336: ID1631
+    400338: ID1639
+    400340: ID1647
+    400342: ID165
+    400344: ID1655
+    400346: ID173
+    400348: ID19
+    400350: ID203
+    400352: ID211
+    400354: ID215
+    400356: ID219
+    400358: ID242
+    400360: ID259
+    400362: ID267
+    400364: ID27
+    400366: ID271
+    400368: ID275
+    400370: ID288
+    400372: ID296
+    400374: ID300
+    400376: ID304
+    400378: ID326
+    400380: ID343
+    400382: ID351
+    400384: ID355
+    400386: ID359
+    400388: ID401
+    400390: ID409
+    400392: ID413
+    400394: ID417
+    400396: ID433
+    400398: ID433 1
+    400400: ID433 2
+    400402: ID441
+    400404: ID441 1
+    400406: ID441 2
+    400408: ID459
+    400410: ID459 1
+    400412: ID459 2
+    400414: ID467
+    400416: ID467 1
+    400418: ID467 2
+    400420: ID485
+    400422: ID493
+    400424: ID510
+    400426: ID518
+    400428: ID522
+    400430: ID526
+    400432: ID549
+    400434: ID567
+    400436: ID575
+    400438: ID60
+    400440: ID601
+    400442: ID609
+    400444: ID613
+    400446: ID617
+    400448: ID630
+    400450: ID638
+    400452: ID642
+    400454: ID646
+    400456: ID659
+    400458: ID667
+    400460: ID671
+    400462: ID675
+    400464: ID68
+    400466: ID698
+    400468: ID725
+    400470: ID742
+    400472: ID750
+    400474: ID754
+    400476: ID758
+    400478: ID781
+    400480: ID798
+    400482: ID806
+    400484: ID810
+    400486: ID814
+    400488: ID836
+    400490: ID863
+    400492: ID880
+    400494: ID888
+    400496: ID892
+    400498: ID896
+    400500: ID909
+    400502: ID917
+    400504: ID921
+    400506: ID925
+    400508: ID938
+    400510: ID946
+    400512: ID95
+    400514: ID950
+    400516: ID954
+    400518: ID970
+    400520: ID980
+    400522: ID988
+    400524: ID996
+    400526: instance_0
+    400528: instance_1
+    400530: instance_1 1
+    400532: instance_1 2
+    400534: instance_10
+    400536: instance_10 1
+    400538: instance_11
+    400540: instance_11 1
+    400542: instance_12
+    400544: instance_12 1
+    400546: instance_13
+    400548: instance_14
+    400550: instance_15
+    400552: instance_16
+    400554: instance_17
+    400556: instance_18
+    400558: instance_19
+    400560: instance_2
+    400562: instance_2 1
+    400564: instance_2 2
+    400566: instance_20
+    400568: instance_21
+    400570: instance_22
+    400572: instance_23
+    400574: instance_24
+    400576: instance_3
+    400578: instance_4
+    400580: instance_5
+    400582: instance_6
+    400584: instance_6 1
+    400586: instance_7
+    400588: instance_7 1
+    400590: instance_8
+    400592: instance_8 1
+    400594: instance_9
+    400596: instance_9 1
+    400598: "Joelho_90__Sold\xE1vel_25mm"
+    400600: "Joelho_90__Sold\xE1vel_25mm 1"
+    400602: leg
+    400604: leg 1
+    400606: leg 2
+    400608: leg 3
+    400610: leg 4
+    400612: leg 5
+    400614: //RootNode
+    400616: skp_camera_Last_Saved_SketchUp_View
+    400618: skp_camera_Scene_2
+    400620: "T\xEA_Sold\xE1vel_25mm"
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2000002: skp_camera_Scene_2
+    2100000: Glass_Pure
+    2100002: Color_E05
+    2100004: Metal1
+    2100006: Metallic_Paint_Champagne
+    2100008: material
+    2100010: material_0
+    2100012: _0136_Charcoal
+    2300000: ____BS_-_PE_com_D1_SS_de_90_
+    2300002: ____BS_-_PE_com_D1_SS_de_90_ 1
+    2300004: ____BS_-_PE_com_D1_SS_de_90_ 2
+    2300006: ____BS_-_PE_com_D1_SS_de_90_ 3
+    2300008: ____BS_-_PE_com_D1_SS_de_90_ 4
+    2300010: ____BS_-_PE_com_D1_SS_de_90_ 5
+    2300012: ____BS_-_PE_com_D2_SS_de_90_
+    2300014: ____BS_-_PI_Completa
+    2300016: ____BS_-_PI_Completa 1
+    2300018: ____BS_-_PI_Completa 2
+    2300020: ____BS_-_PI_Completa 3
+    2300022: ____BS_-_PI_Completa 4
+    2300024: ____BS_-_PI_Completa 5
+    2300026: ____BS_-_PI_Completa 6
+    2300028: ____Curva_Externa_Curta_de_90_
+    2300030: ____Curva_Externa_Curta_de_90_ 1
+    2300032: ____Curva_Interna_Curta_de_90_
+    2300034: ____Curva_Interna_Curta_de_90_ 1
+    2300036: ____Encontro_do_Prolongamento_Externo_de_3_Bolsas
+    2300038: ____Encontro_do_Prolongamento_Interno_de_3_Bolsas
+    2300040: ____Encontro_do_Prolongamento_Interno_de_4_Bolsas
+    2300042: group_10
+    2300044: group_10 1
+    2300046: group_10 2
+    2300048: group_10 3
+    2300050: group_10 4
+    2300052: group_10 5
+    2300054: group_11
+    2300056: group_11 1
+    2300058: group_11 2
+    2300060: group_11 3
+    2300062: group_11 4
+    2300064: group_11 5
+    2300066: group_12
+    2300068: group_13
+    2300070: group_14
+    2300072: group_15
+    2300074: group_15 1
+    2300076: group_16
+    2300078: group_18
+    2300080: group_19
+    2300082: group_2
+    2300084: group_2 1
+    2300086: group_2 2
+    2300088: group_2 3
+    2300090: group_2 4
+    2300092: group_2 5
+    2300094: group_2 6
+    2300096: group_2 7
+    2300098: group_20
+    2300100: group_21
+    2300102: group_22
+    2300104: group_23
+    2300106: group_26
+    2300108: group_27
+    2300110: group_28
+    2300112: group_3
+    2300114: group_3 1
+    2300116: group_3 2
+    2300118: group_3 3
+    2300120: group_3 4
+    2300122: group_3 5
+    2300124: group_3 6
+    2300126: group_3 7
+    2300128: group_31
+    2300130: group_33
+    2300132: group_34
+    2300134: group_36
+    2300136: group_37
+    2300138: group_38
+    2300140: group_39
+    2300142: group_40
+    2300144: group_41
+    2300146: group_42
+    2300148: group_43
+    2300150: group_48
+    2300152: group_48 1
+    2300154: group_49
+    2300156: group_49 1
+    2300158: group_50
+    2300160: group_51
+    2300162: group_52
+    2300164: group_53
+    2300166: group_54
+    2300168: group_55
+    2300170: group_56
+    2300172: group_60
+    2300174: group_61
+    2300176: group_8
+    2300178: ID1004
+    2300180: ID1012
+    2300182: ID1020
+    2300184: ID1028
+    2300186: ID103
+    2300188: ID1036
+    2300190: ID1044
+    2300192: ID1052
+    2300194: ID1071
+    2300196: ID1081
+    2300198: ID1110
+    2300200: ID1118
+    2300202: ID1155
+    2300204: ID1172
+    2300206: ID1201
+    2300208: ID1275
+    2300210: ID1275 1
+    2300212: ID1275 2
+    2300214: ID1294
+    2300216: ID130
+    2300218: ID1311
+    2300220: ID1319
+    2300222: ID1354
+    2300224: ID1362
+    2300226: ID1379
+    2300228: ID138
+    2300230: ID1420
+    2300232: ID1437
+    2300234: ID1466
+    2300236: ID1496
+    2300238: ID1504
+    2300240: ID1577
+    2300242: ID1577 1
+    2300244: ID1577 2
+    2300246: ID1577 3
+    2300248: ID1623
+    2300250: ID1631
+    2300252: ID1639
+    2300254: ID1647
+    2300256: ID165
+    2300258: ID1655
+    2300260: ID173
+    2300262: ID19
+    2300264: ID203
+    2300266: ID242
+    2300268: ID259
+    2300270: ID27
+    2300272: ID288
+    2300274: ID326
+    2300276: ID343
+    2300278: ID401
+    2300280: ID433
+    2300282: ID433 1
+    2300284: ID433 2
+    2300286: ID441
+    2300288: ID441 1
+    2300290: ID441 2
+    2300292: ID459
+    2300294: ID459 1
+    2300296: ID459 2
+    2300298: ID467
+    2300300: ID467 1
+    2300302: ID467 2
+    2300304: ID485
+    2300306: ID493
+    2300308: ID510
+    2300310: ID549
+    2300312: ID567
+    2300314: ID575
+    2300316: ID60
+    2300318: ID601
+    2300320: ID630
+    2300322: ID659
+    2300324: ID68
+    2300326: ID698
+    2300328: ID725
+    2300330: ID742
+    2300332: ID781
+    2300334: ID798
+    2300336: ID836
+    2300338: ID863
+    2300340: ID880
+    2300342: ID909
+    2300344: ID938
+    2300346: ID95
+    2300348: ID970
+    2300350: ID980
+    2300352: ID988
+    2300354: ID996
+    2300356: leg
+    2300358: leg 1
+    2300360: leg 2
+    2300362: leg 3
+    2300364: leg 4
+    2300366: leg 5
+    3300000: ____BS_-_PE_com_D1_SS_de_90_
+    3300002: ____BS_-_PE_com_D1_SS_de_90_ 1
+    3300004: ____BS_-_PE_com_D1_SS_de_90_ 2
+    3300006: ____BS_-_PE_com_D1_SS_de_90_ 3
+    3300008: ____BS_-_PE_com_D1_SS_de_90_ 4
+    3300010: ____BS_-_PE_com_D1_SS_de_90_ 5
+    3300012: ____BS_-_PE_com_D2_SS_de_90_
+    3300014: ____BS_-_PI_Completa
+    3300016: ____BS_-_PI_Completa 1
+    3300018: ____BS_-_PI_Completa 2
+    3300020: ____BS_-_PI_Completa 3
+    3300022: ____BS_-_PI_Completa 4
+    3300024: ____BS_-_PI_Completa 5
+    3300026: ____BS_-_PI_Completa 6
+    3300028: ____Curva_Externa_Curta_de_90_
+    3300030: ____Curva_Externa_Curta_de_90_ 1
+    3300032: ____Curva_Interna_Curta_de_90_
+    3300034: ____Curva_Interna_Curta_de_90_ 1
+    3300036: ____Encontro_do_Prolongamento_Externo_de_3_Bolsas
+    3300038: ____Encontro_do_Prolongamento_Interno_de_3_Bolsas
+    3300040: ____Encontro_do_Prolongamento_Interno_de_4_Bolsas
+    3300042: group_10
+    3300044: group_10 1
+    3300046: group_10 2
+    3300048: group_10 3
+    3300050: group_10 4
+    3300052: group_10 5
+    3300054: group_11
+    3300056: group_11 1
+    3300058: group_11 2
+    3300060: group_11 3
+    3300062: group_11 4
+    3300064: group_11 5
+    3300066: group_12
+    3300068: group_13
+    3300070: group_14
+    3300072: group_15
+    3300074: group_15 1
+    3300076: group_16
+    3300078: group_18
+    3300080: group_19
+    3300082: group_2
+    3300084: group_2 1
+    3300086: group_2 2
+    3300088: group_2 3
+    3300090: group_2 4
+    3300092: group_2 5
+    3300094: group_2 6
+    3300096: group_2 7
+    3300098: group_20
+    3300100: group_21
+    3300102: group_22
+    3300104: group_23
+    3300106: group_26
+    3300108: group_27
+    3300110: group_28
+    3300112: group_3
+    3300114: group_3 1
+    3300116: group_3 2
+    3300118: group_3 3
+    3300120: group_3 4
+    3300122: group_3 5
+    3300124: group_3 6
+    3300126: group_3 7
+    3300128: group_31
+    3300130: group_33
+    3300132: group_34
+    3300134: group_36
+    3300136: group_37
+    3300138: group_38
+    3300140: group_39
+    3300142: group_40
+    3300144: group_41
+    3300146: group_42
+    3300148: group_43
+    3300150: group_48
+    3300152: group_48 1
+    3300154: group_49
+    3300156: group_49 1
+    3300158: group_50
+    3300160: group_51
+    3300162: group_52
+    3300164: group_53
+    3300166: group_54
+    3300168: group_55
+    3300170: group_56
+    3300172: group_60
+    3300174: group_61
+    3300176: group_8
+    3300178: ID1004
+    3300180: ID1012
+    3300182: ID1020
+    3300184: ID1028
+    3300186: ID103
+    3300188: ID1036
+    3300190: ID1044
+    3300192: ID1052
+    3300194: ID1071
+    3300196: ID1081
+    3300198: ID1110
+    3300200: ID1118
+    3300202: ID1155
+    3300204: ID1172
+    3300206: ID1201
+    3300208: ID1275
+    3300210: ID1275 1
+    3300212: ID1275 2
+    3300214: ID1294
+    3300216: ID130
+    3300218: ID1311
+    3300220: ID1319
+    3300222: ID1354
+    3300224: ID1362
+    3300226: ID1379
+    3300228: ID138
+    3300230: ID1420
+    3300232: ID1437
+    3300234: ID1466
+    3300236: ID1496
+    3300238: ID1504
+    3300240: ID1577
+    3300242: ID1577 1
+    3300244: ID1577 2
+    3300246: ID1577 3
+    3300248: ID1623
+    3300250: ID1631
+    3300252: ID1639
+    3300254: ID1647
+    3300256: ID165
+    3300258: ID1655
+    3300260: ID173
+    3300262: ID19
+    3300264: ID203
+    3300266: ID242
+    3300268: ID259
+    3300270: ID27
+    3300272: ID288
+    3300274: ID326
+    3300276: ID343
+    3300278: ID401
+    3300280: ID433
+    3300282: ID433 1
+    3300284: ID433 2
+    3300286: ID441
+    3300288: ID441 1
+    3300290: ID441 2
+    3300292: ID459
+    3300294: ID459 1
+    3300296: ID459 2
+    3300298: ID467
+    3300300: ID467 1
+    3300302: ID467 2
+    3300304: ID485
+    3300306: ID493
+    3300308: ID510
+    3300310: ID549
+    3300312: ID567
+    3300314: ID575
+    3300316: ID60
+    3300318: ID601
+    3300320: ID630
+    3300322: ID659
+    3300324: ID68
+    3300326: ID698
+    3300328: ID725
+    3300330: ID742
+    3300332: ID781
+    3300334: ID798
+    3300336: ID836
+    3300338: ID863
+    3300340: ID880
+    3300342: ID909
+    3300344: ID938
+    3300346: ID95
+    3300348: ID970
+    3300350: ID980
+    3300352: ID988
+    3300354: ID996
+    3300356: leg
+    3300358: leg 1
+    3300360: leg 2
+    3300362: leg 3
+    3300364: leg 4
+    3300366: leg 5
+    4300000: group_2
+    4300002: ID19
+    4300004: ID27
+    4300006: group_3
+    4300008: group_2
+    4300010: ID60
+    4300012: ID68
+    4300014: group_3
+    4300016: group_2
+    4300018: ID95
+    4300020: ID103
+    4300022: group_3
+    4300024: group_2
+    4300026: ID130
+    4300028: ID138
+    4300030: group_3
+    4300032: group_2
+    4300034: ID165
+    4300036: ID173
+    4300038: group_3
+    4300040: group_8
+    4300042: ID203
+    4300044: group_10
+    4300046: group_11
+    4300048: ID242
+    4300050: group_12
+    4300052: ID259
+    4300054: group_13
+    4300056: ID288
+    4300058: group_14
+    4300060: ID326
+    4300062: group_15
+    4300064: group_16
+    4300066: ID343
+    4300068: group_18
+    4300070: ID485
+    4300072: ID493
+    4300074: group_19
+    4300076: group_20
+    4300078: group_21
+    4300080: group_22
+    4300082: ID401
+    4300084: leg
+    4300086: ID433
+    4300088: ID441
+    4300090: leg
+    4300092: ID459
+    4300094: ID467
+    4300096: group_23
+    4300098: ID510
+    4300100: group_10
+    4300102: group_11
+    4300104: ID549
+    4300106: group_2
+    4300108: ID567
+    4300110: ID575
+    4300112: group_3
+    4300114: group_26
+    4300116: ID601
+    4300118: group_27
+    4300120: ID630
+    4300122: group_28
+    4300124: ID659
+    4300126: group_10
+    4300128: group_11
+    4300130: ID698
+    4300132: group_10
+    4300134: group_11
+    4300136: ID725
+    4300138: group_31
+    4300140: ID742
+    4300142: group_10
+    4300144: group_11
+    4300146: ID781
+    4300148: group_33
+    4300150: ID798
+    4300152: group_34
+    4300154: ID836
+    4300156: group_15
+    4300158: group_10
+    4300160: group_11
+    4300162: ID863
+    4300164: group_36
+    4300166: ID880
+    4300168: group_37
+    4300170: ID909
+    4300172: group_38
+    4300174: ID938
+    4300176: group_39
+    4300178: ID1623
+    4300180: ID1631
+    4300182: ID1639
+    4300184: ID1647
+    4300186: ID1655
+    4300188: group_40
+    4300190: ID970
+    4300192: ID980
+    4300194: ID988
+    4300196: ID996
+    4300198: ID1004
+    4300200: ID1012
+    4300202: ID1020
+    4300204: ID1028
+    4300206: ID1036
+    4300208: ID1044
+    4300210: ID1052
+    4300212: group_41
+    4300214: ID1071
+    4300216: ID1081
+    4300218: group_42
+    4300220: ID1294
+    4300222: group_43
+    4300224: group_2
+    4300226: ID1110
+    4300228: ID1118
+    4300230: group_3
+    4300232: group_48
+    4300234: group_49
+    4300236: ID1155
+    4300238: group_50
+    4300240: ID1172
+    4300242: group_51
+    4300244: ID1201
+    4300246: ____Curva_Interna_Curta_de_90_
+    4300248: ____Curva_Externa_Curta_de_90_
+    4300250: ____BS_-_PE_com_D1_SS_de_90_
+    4300252: ____BS_-_PE_com_D1_SS_de_90_
+    4300254: ____BS_-_PI_Completa
+    4300256: ID1275
+    4300258: group_52
+    4300260: ID1311
+    4300262: ID1319
+    4300264: group_53
+    4300266: group_54
+    4300268: group_55
+    4300270: ID1354
+    4300272: ID1362
+    4300274: group_56
+    4300276: ID1379
+    4300278: group_48
+    4300280: group_49
+    4300282: ID1420
+    4300284: group_60
+    4300286: ID1437
+    4300288: group_61
+    4300290: ID1466
+    4300292: group_2
+    4300294: ID1496
+    4300296: ID1504
+    4300298: group_3
+    4300300: ____Encontro_do_Prolongamento_Externo_de_3_Bolsas
+    4300302: ____Encontro_do_Prolongamento_Interno_de_3_Bolsas
+    4300304: ____Encontro_do_Prolongamento_Interno_de_4_Bolsas
+    4300306: ____BS_-_PE_com_D2_SS_de_90_
+    4300308: ____BS_-_PI_Completa
+    4300310: ID1577
+    4300312: ____Curva_Interna_Curta_de_90_
+    4300314: ____Curva_Externa_Curta_de_90_
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

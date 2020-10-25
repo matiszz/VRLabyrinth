@@ -19,6 +19,8 @@ public class PlayerWalk : MonoBehaviour {
     public bool gameStarted = false;
 
     public int countCoins;
+    public bool hasKey;
+
     private float timeLeft;
     private bool firstTime = true;
 

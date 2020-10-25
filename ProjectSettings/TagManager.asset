@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Coin
   - Meta
+  - Key
   layers:
   - Default
   - TransparentFX
