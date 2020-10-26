@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [:gvr-keyboard:] /home/mati/.gradle/caches/transforms-2/files-2.1/c2270042bdf9238d3155fbfa45808a48/AndroidManifest.xml:2:1-11:12
+MERGED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:2:1-31:12
+MERGED from [:gvr-permissionsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/9923cfee34f8df6e8de405b6b73ef3cd/AndroidManifest.xml:2:1-30:12
+MERGED from [:gvr:] /home/mati/.gradle/caches/transforms-2/files-2.1/42be7b6ddb90697965ccab07df830ee8/AndroidManifest.xml:2:1-9:12
+MERGED from [:unitygvr:] /home/mati/.gradle/caches/transforms-2/files-2.1/83f57609f85d7075f61df7b6cc5f1617/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-108
+		INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:2:109-155
+	android:versionCode
+		INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:2:156-186
+supports-screens
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-18:17
+MERGED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-permissionsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/9923cfee34f8df6e8de405b6b73ef3cd/AndroidManifest.xml:11:5-28:19
+MERGED from [:gvr-permissionsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/9923cfee34f8df6e8de405b6b73ef3cd/AndroidManifest.xml:11:5-28:19
+	android:supportsRtl
+		ADDED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:4:48-80
+	android:allowBackup
+		ADDED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-47
+	android:banner
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:4:103-140
+	android:theme
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:4:141-179
+	android:isGame
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:4:81-102
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-13:16
+	android:screenOrientation
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+	android:hardwareAccelerated
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:5:355-390
+	android:configChanges
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER+category:name:com.google.intent.category.CARDBOARD
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-11:23
+action#android.intent.action.MAIN
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+category#com.google.intent.category.CARDBOARD
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:10:9-73
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:10:19-70
+meta-data#unityplayer.UnityActivity
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:12:7-82
+	android:value
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:12:59-79
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:12:18-58
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-88
+	android:value
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:14:65-85
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-64
+meta-data#unity.build-id
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-101
+	android:value
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:15:46-98
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-45
+meta-data#unity.splash-mode
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:16:5-69
+	android:value
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:16:49-66
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:16:16-48
+meta-data#unity.splash-enable
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:17:5-75
+	android:value
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:17:51-72
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:17:16-50
+uses-feature#0x00030000
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-52
+	android:glEsVersion
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:19:17-49
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-78
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:20:20-75
+uses-permission#android.permission.INTERNET
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-65
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:21:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-106
+	android:maxSdkVersion
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:22:77-103
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:22:20-76
+uses-feature#android.hardware.touchscreen
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:23:3-88
+	android:required
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:23:61-85
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:23:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:24:3-99
+	android:required
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:24:72-96
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:24:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:25:3-108
+	android:required
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:25:81-105
+	android:name
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml:25:17-80
+uses-sdk
+INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+MERGED from [:gvr-keyboard:] /home/mati/.gradle/caches/transforms-2/files-2.1/c2270042bdf9238d3155fbfa45808a48/AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboard:] /home/mati/.gradle/caches/transforms-2/files-2.1/c2270042bdf9238d3155fbfa45808a48/AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/9923cfee34f8df6e8de405b6b73ef3cd/AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/9923cfee34f8df6e8de405b6b73ef3cd/AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr:] /home/mati/.gradle/caches/transforms-2/files-2.1/42be7b6ddb90697965ccab07df830ee8/AndroidManifest.xml:5:5-7:41
+MERGED from [:gvr:] /home/mati/.gradle/caches/transforms-2/files-2.1/42be7b6ddb90697965ccab07df830ee8/AndroidManifest.xml:5:5-7:41
+MERGED from [:unitygvr:] /home/mati/.gradle/caches/transforms-2/files-2.1/83f57609f85d7075f61df7b6cc5f1617/AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygvr:] /home/mati/.gradle/caches/transforms-2/files-2.1/83f57609f85d7075f61df7b6cc5f1617/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /home/mati/Code/Learning/VR/Labyrinth/Labyrinth/Temp/gradleOut/src/main/AndroidManifest.xml
+activity#com.google.gvr.keyboardsupport.TransitionVRActivity
+ADDED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:17:9-28:20
+	android:label
+		ADDED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:21:13-37
+	android:resizeableActivity
+		ADDED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:19:13-100
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:18:13-79
+intent-filter#category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:24:13-27:29
+category#com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:26:17-80
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/ce7cac493cf380be98fc5628e20e7c01/AndroidManifest.xml:26:27-77
+activity#com.google.gvr.permissionsupport.TransitionVRActivity
+ADDED from [:gvr-permissionsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/9923cfee34f8df6e8de405b6b73ef3cd/AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from [:gvr-permissionsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/9923cfee34f8df6e8de405b6b73ef3cd/AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-permissionsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/9923cfee34f8df6e8de405b6b73ef3cd/AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-permissionsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/9923cfee34f8df6e8de405b6b73ef3cd/AndroidManifest.xml:21:13-37
+	android:configChanges
+		ADDED from [:gvr-permissionsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/9923cfee34f8df6e8de405b6b73ef3cd/AndroidManifest.xml:19:13-100
+	android:name
+		ADDED from [:gvr-permissionsupport-release:] /home/mati/.gradle/caches/transforms-2/files-2.1/9923cfee34f8df6e8de405b6b73ef3cd/AndroidManifest.xml:18:13-81
