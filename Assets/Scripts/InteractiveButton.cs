@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Timers;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class InteractiveButton : MonoBehaviour {
 
@@ -68,6 +69,9 @@ public class InteractiveButton : MonoBehaviour {
                 gameObject.transform.GetChild(0).GetComponent<UnityEngine.UI.Text>().text = "Music ON";
 
             playerScript.musicEnabled = !playerScript.musicEnabled;   
+        
+        } else if (transform.name == "BtnReplay") {
+            SceneManager.LoadScene("Game");
         }
 
     }
