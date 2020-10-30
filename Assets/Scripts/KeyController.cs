@@ -5,6 +5,8 @@ using UnityEngine;
 public class KeyController : MonoBehaviour {
     public float pointTime;
 
+    public int yRotation = 0;
+
     public AudioSource keySound;
     private static GameObject player;
     private static GameObject camera;
@@ -22,7 +24,24 @@ public class KeyController : MonoBehaviour {
     // Update is called once per frame
     void Update() {
         OnAttachKeyToPlayer();
+        OnRotateKey();
+        OnActivateGaze();
+    }
 
+    private void OnRotateKey() {
+        if (Input.GetButtonDown("Jump")) {
+            yRotation += 45;
+        }
+    }
+    
+    private void OnAttachKeyToPlayer() {
+        if (playerScript.hasKey) {
+            transform.position = camera.transform.position + camera.transform.rotation * new Vector3(1, 0, 3);
+            transform.rotation = camera.transform.rotation * Quaternion.Euler(180+yRotation, 90, -90);
+        }
+    }
+
+    private void OnActivateGaze() {
         if (entered) {
             timer += Time.deltaTime;
 
@@ -30,13 +49,6 @@ public class KeyController : MonoBehaviour {
                 OnCollectKey();
         } else {
             timer = 0;
-        }
-    }
-    
-    private void OnAttachKeyToPlayer() {
-        if (playerScript.hasKey) {
-            transform.position = camera.transform.position + camera.transform.rotation * new Vector3(1, 0, 3);
-            transform.rotation = camera.transform.rotation * Quaternion.Euler(180, 90, -90);
         }
     }
 
