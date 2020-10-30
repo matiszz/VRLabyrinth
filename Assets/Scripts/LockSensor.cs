@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class LockSensor : MonoBehaviour {
     private static GameObject door;
+    private static GameObject key;
 
     // Start is called before the first frame update
     void Start() {
         door = GameObject.Find("Door");
+        key = GameObject.Find("Key");
     }
 
     // Update is called once per frame
@@ -19,6 +21,7 @@ public class LockSensor : MonoBehaviour {
         if (collider.gameObject.CompareTag("Key")) {
             DoorController doorScript = door.GetComponent<DoorController>();
             doorScript.isOpening = true;
+            key.SetActive(false);
         }
     }
 }

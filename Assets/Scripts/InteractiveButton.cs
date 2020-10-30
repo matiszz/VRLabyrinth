@@ -18,6 +18,7 @@ public class InteractiveButton : MonoBehaviour {
     private const int EASY_TIME = 140;
 
     private bool entered = false;
+    private bool leftGaze = true;
     private float timer = 0;
 
     // Start is called before the first frame update
@@ -33,11 +34,12 @@ public class InteractiveButton : MonoBehaviour {
         if (entered) {
             timer += Time.deltaTime;
 
-            if (timer > this.pointTime)
+            if (timer > this.pointTime && leftGaze)
                 OnSelectOption();
 
         } else {
             timer = 0;
+            leftGaze = true;
         }
     }
 
@@ -63,6 +65,7 @@ public class InteractiveButton : MonoBehaviour {
             DisplayObject(settings, false);
 
         } else if (transform.name == "BtnMusic") {
+            leftGaze = false;
             if (playerScript.musicEnabled)
                 gameObject.transform.GetChild(0).GetComponent<UnityEngine.UI.Text>().text = "Music OFF";
             else
